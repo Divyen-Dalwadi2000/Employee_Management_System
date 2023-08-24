@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "Add EmpManagement Project to github"
+git remote add origin https://github.com/Divyen-Dalwadi2000/Employee_Management_System.git
+git fetch origin
+git push
+git push -u -f origin master
