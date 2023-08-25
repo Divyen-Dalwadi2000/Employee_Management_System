@@ -8,3 +8,8 @@ git push -u -f origin master
 
 git stash
 git commit -am "Updaate"
+git pull upstream master
+
+
+git add .         
+git commit -m "Merge upstream master with resolved conflicts"

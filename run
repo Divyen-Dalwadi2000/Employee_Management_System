@@ -1,0 +1,5 @@
+javac -d . EmployeeDetails.java
+javac -d . Operations.java
+javac -d . EmpManagement.java
+javac -d . DriverClass.java
+java employeeManagementSystem.DriverClass
