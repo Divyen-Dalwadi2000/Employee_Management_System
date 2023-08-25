@@ -5,3 +5,6 @@ git remote add origin https://github.com/Divyen-Dalwadi2000/Employee_Management_
 git fetch origin
 git push
 git push -u -f origin master
+
+git stash
+git commit -am "Updaate"
