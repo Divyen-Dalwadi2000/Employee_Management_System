@@ -65,7 +65,4 @@ public class DriverClass {
 
 
 
-// javac -d . EmployeeDetails.java
-// javac -d . EmpManagement.java
-// javac -d . DriverClass.java
-// java employeeManagementSystem.DriverClass
+
